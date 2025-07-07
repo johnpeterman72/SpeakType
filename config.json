@@ -1,0 +1,15 @@
+{
+    "language": "en-US",
+    "auto_punctuation": true,
+    "hotkey": "ctrl+shift+d",
+    "theme": {
+        "primary_color": "#2196F3",
+        "recording_color": "#FF5252",
+        "icon_size": 60
+    },
+    "recognition": {
+        "timeout": 1,
+        "phrase_time_limit": 10,
+        "energy_threshold": 300
+    }
+}
